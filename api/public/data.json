@@ -1,0 +1,11 @@
+[
+  {
+    "id": 1,
+    "creditorName": "Hello",
+    "firstName": "hi",
+    "lastName": "hi",
+    "minPaymentPercentage": 2,
+    "balance": 1000,
+    "selected": true
+  }
+]
